@@ -1,3 +1,5 @@
+(projet en cours d'amélioration, publications à venir)
+
 # toys_and_models
 Business cases using SQL and Power BI. 
 
